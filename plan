@@ -1,0 +1,26 @@
+1. make a bord
+2. add the different colour of the bord
+3. make pawns 
+4. rook, bishops
+5. queen
+6. king
+7. knight 
+8. do the same for black
+9. pawns moving two space on leaving home places
+10. en passant for the pawns 
+11. checks 
+12. check mate
+13. make playable as black
+14. save pass game
+15. add a elo bar (same as chess.com)
+16. save opending more common moves (top 5-10) of that type of opening
+17. be able to read game moves (like the miuntes/ short hand of the match)
+18. add chess engine (stockfish)
+19. know opening
+20. score opening (1-12 moves of the game)
+21. score mid game 
+22. score end game ("The end game is when most of the pieces are off of the board. There is no definite number of pieces, but it's usually a safe bet to call it the endgame when each player has three pieces (knights, bishops, rooks, queens) or less")
+23. give the game a score on how you played (avage opening, middle and end game)
+24. when looking over game logs comepare you game if the opending is the same or end in the same porstion, what i mean by this is that in in the first 6 (6 isn't a hard value it is just a random number pick and will most likly be change ) moves white take middle of the bord with both pawns and black take the outside middle (A & H phials) then compare even if the moves are done in a different way
+25. can pick out a opening to learn and the bot will play the top 10 response to that operning 
+26. give the bot a random chance to play an non stander responts to playing that opening 
